@@ -1,5 +1,5 @@
 # INSTALL BAHAN DULU BANG
-## cara install tinggal salin paste```php
+## cara install tinggal salin paste doang
 $ cd
 
 $ pkg update && pkg upgrade
