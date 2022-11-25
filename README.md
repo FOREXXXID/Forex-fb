@@ -1,3 +1,4 @@
+#BESOK GW UP YA WE SORRY LAH WE 
 # INSTALL BAHAN DULU BANG
 ## cara install tinggal salin paste doang
 $ cd
