@@ -14,7 +14,7 @@ $ pip install stdiomask
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/FOREXXXID/Forex
+$ git clone https://github.com/FOREXXXID/Forex-fb
 
 $ ls ( L kecil )
 
