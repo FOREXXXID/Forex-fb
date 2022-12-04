@@ -1,4 +1,3 @@
-#BESOK GW UP YA WE SORRY LAH WE 
 # INSTALL BAHAN DULU BANG
 ## cara install tinggal salin paste doang
 $ cd
@@ -21,11 +20,11 @@ $ ls ( L kecil )
 
 $ cd Forex-fb
 
-$ python Forex.py
+$ python run.py
 ```
 #Cara Update
 $ cd
 $ cd Forex.py
 $ ls ( L kecil )
 $ git pull
-$ python Forex.py
+$ python run.py
