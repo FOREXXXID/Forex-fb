@@ -21,7 +21,7 @@ PAID TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 - `git clone https://github.com/FOREXXXID/Forex-fb`
-- `cd Forex-fb
+- `cd Forex-fb`
 - `python run.py`
 - `MAAF WE KURANG TELITI AING😂🤣`
 
