@@ -1,4 +1,4 @@
-T# YANCX
+# YANCX
 PAID TOOLS
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YANC-dimgray?style=flat-square&logo=github)](https://github.com/YANXCl/YANXCl)<br> [![Facebook](https://img.shields.io/badge/Facebook-YANC-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100086924166563)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-YANC-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+6282175721016)
 
