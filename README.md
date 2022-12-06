@@ -28,9 +28,11 @@ PAID TOOLS
 __________________________________________
          UPDATE VERSI TERBARU
 __________________________________________
-- `git pull`
 - `cd Forex-fb`
+- `git pull`
 - `python run.py`
+
+- ` KASIH BINTANG OY GW HAPUS NIH`
 
 
 
