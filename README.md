@@ -25,6 +25,14 @@ PAID TOOLS
 - `python run.py`
 - `MAAF WE KURANG TELITI AING😂🤣`
 
+__________________________________________
+         UPDATE VERSI TERBARU
+__________________________________________
+- `git pull`
+- `cd Forex-fb`
+- `python run.py`
+
+
 
 
 
